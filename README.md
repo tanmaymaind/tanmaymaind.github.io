@@ -1,7 +1,7 @@
 # Tanmay Maind — Portfolio
 
 A premium luxury-style personal portfolio website in black & gold: hero with portrait,
-about, experience, skills, featured projects, certifications, YouTube channel, and contact.
+about, experience, skills, featured projects, certifications, and contact.
 
 ## View it locally
 
